@@ -10,14 +10,14 @@
 
 
 ## General Information
-- Bike-sharing systems provide short-term bike rentals via automated docks. Due to COVID-19, BoomBikes faced a drop in demand and revenue. To recover, they need a data-driven strategy to predict bike demand and optimize operations.
-- BoomBikes wants to understand key factors driving bike demand to:
-- The bsuiness objectives are :
+* Bike-sharing systems provide short-term bike rentals via automated docks. Due to COVID-19, BoomBikes faced a drop in demand and revenue. To recover, they need a data-driven strategy to predict bike demand and optimize operations.
+* BoomBikes wants to understand key factors driving bike demand to:
+* The bsuiness objectives are :
   -Optimize bike availability in high-demand areas.
   -Improve pricing and marketing strategies.
   -Plan future expansions based on demand patterns.
 
-- The dataset includes daily bike rentals with factors like:
+* The dataset includes daily bike rentals with factors like:
   -Time: Season, holiday, weekday, year.
   -Weather: Temperature, humidity, wind speed.
   -Users: Casual, registered, total rentals (target variable: cnt).
