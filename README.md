@@ -12,16 +12,16 @@
 ## General Information
 - Bike-sharing systems provide short-term bike rentals via automated docks. Due to COVID-19, BoomBikes faced a drop in demand and revenue. To recover, they need a data-driven strategy to predict bike demand and optimize operations.
 - BoomBikes wants to understand key factors driving bike demand to:
+- The bsuiness objectives are :
+     -Optimize bike availability in high-demand areas.
+     -Improve pricing and marketing strategies.
+     -Plan future expansions based on demand patterns.
 
-Optimize bike availability in high-demand areas.
-Improve pricing and marketing strategies.
-Plan future expansions based on demand patterns.
 - The dataset includes daily bike rentals with factors like:
-
-Time: Season, holiday, weekday, year.
-Weather: Temperature, humidity, wind speed.
-Users: Casual, registered, total rentals (target variable: cnt).
-This helps in forecasting demand and making data-driven decisions for business growth.
+     -Time: Season, holiday, weekday, year.
+     -Weather: Temperature, humidity, wind speed.
+     -Users: Casual, registered, total rentals (target variable: cnt).
+  This helps in forecasting demand and making data-driven decisions for business growth.
 
 
 
@@ -47,7 +47,6 @@ Overall, this predictive model provides valuable insights into demand dynamics, 
 
 
 ## Acknowledgements
-- References if any...
 - This project was based on UPGRAD's online AI and ML course.
 - I sincerely thank UPGRAD for the very opportunity to help me solve this and also my peers who has provided direction and valuable insights
 
