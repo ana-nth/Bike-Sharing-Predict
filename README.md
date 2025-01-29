@@ -52,5 +52,5 @@ Overall, this predictive model provides valuable insights into demand dynamics, 
 
 
 ## Contact
-Created by ana-nth - feel free to contact me!
+Created by @ana-nth - feel free to contact me!
 
